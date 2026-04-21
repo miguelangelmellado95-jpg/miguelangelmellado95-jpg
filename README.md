@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I'm Miggy
 
-<!--
-**miguelangelmellado95-jpg/miguelangelmellado95-jpg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer building games, tools, and experiments.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚧 Currently Building
+
+🎮 **Discord Mod Simulator (Roblox)**
+- Wave-based survival
+- Social commentary + humor
+- Dev logs coming soon
+
+🌐 **Dev Blog**
+- Tracking progress
+- Sharing lessons learned
+- Building in public
+
+---
+
+## 🧠 Tech
+
+- TypeScript / JavaScript
+- Roblox (Luau)
+- Next.js
+- Node.js
+- AI-assisted workflows
+
+---
+
+## 📈 Goals
+
+- Ship games consistently
+- Build a small audience
+- Improve fast through iteration
+
+---
+
+## 🔥 Philosophy
+
+> Build fast. Ship often. Learn in public.
+
+---
+
+## 📫 Connect (soon)
