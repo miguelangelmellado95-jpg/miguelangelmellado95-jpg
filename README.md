@@ -19,7 +19,7 @@ Wave-based survival on Roblox. Defend a server from trolls and spammers with mod
 
 **Phase 2 · Game Feel**
 
-[Repo →](https://github.com/miggy619/discord-mod-simulator)
+[Repo →](https://github.com/MiggyDev619/discord-mod-simulator)
 
 </td>
 <td width="33%" valign="top">
@@ -31,7 +31,7 @@ HUD-styled developer log. A post ships for every milestone across every project,
 
 **11 posts · active**
 
-[Repo →](https://github.com/miggy619/miggy-devlog)
+[Repo →](https://github.com/MiggyDev619/miggy-devlog)
 
 </td>
 <td width="33%" valign="top">
